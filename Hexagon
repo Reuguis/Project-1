@@ -1,0 +1,14 @@
+from turtle import *
+penup ()
+
+pencolor("green")
+goto (0,0)
+pendown()
+goto(50,0)
+goto(100,50)
+goto (50,100)
+goto(-50,-100)
+goto(-100,-50)
+goto(-50,0)
+
+penup()
