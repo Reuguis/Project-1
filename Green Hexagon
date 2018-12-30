@@ -1,0 +1,19 @@
+from turtle import *
+
+pencolor("green")
+
+goto (0,0)
+pendown()
+
+pensize(5)
+goto(45,60)
+goto(0,120)
+goto (-60,120)
+goto(-100,60)
+goto(-50,0)
+goto(0,0)
+
+
+
+penup()
+exitonclick()
